@@ -1,6 +1,6 @@
 /*
 
-All colors are picked from Pantome:
+All colors are picked from Pantone:
 https://connect.pantone.com/#/pick?pantoneBook=pantoneSolidCoated&visualisation=2D
 
   Colors used:
@@ -85,28 +85,28 @@ https://connect.pantone.com/#/pick?pantoneBook=pantoneSolidCoated&visualisation=
 
     "editor.background": "#101820",
     "editor.foreground": "#F2F0EB",
-    
+
     "editor.selectionBackground": "#4D6995",
     "editor.findMatchBackground": "#A6192E80",
     "editor.findMatchBorder": "#A6192E80",
     "editor.findMatchHighlightBackground": "#C8102E80",
     "editor.lineHighlightBorder": "#4B4F54",
     "editor.rangeHighlightBackground": "#4B4F54",
-    
+
     "editorLineNumber.foreground": "#4B4F54",
     "editorLineNumber.activeForeground": "#C8102E",
-    
+
     "editorWidget.foreground": "#F2F0EB",
     "editorWidget.background": "#101820",
-    
+
     "editorCursor.background": "#101820",
     "editorCursor.foreground": "#C8102E",
-    
+
     "editorLightBulb.foreground": "#F5DF4D",
     "editorLightBulbAutoFix.foreground": "#F5DF4D",
-    
+
     "editorOverviewRuler.findMatchForeground": "#C8102E80",
-    
+
     "terminal.border": "#C8102E",
     "terminal.tab.activeBorder": "#C8102E",
     "terminal.selectionBackground": "#4D6995",
@@ -128,7 +128,7 @@ https://connect.pantone.com/#/pick?pantoneBook=pantoneSolidCoated&visualisation=
     "statusBar.background": "#A6192E",
     "statusBar.debuggingBackground": "#C8102E",
     "statusBar.debuggingForeground": "#F2F0EB",
-    
+
     "statusBarItem.activeBackground": "#C8102E80",
     "statusBarItem.hoverBackground": "#C8102E",
 
@@ -565,15 +565,15 @@ https://connect.pantone.com/#/pick?pantoneBook=pantoneSolidCoated&visualisation=
     {
       "name": "[Python] Function Parameter Special",
       "scope": [
-        "source.python meta.function.parameters variable.parameter.function.language.special.self"],
+        "source.python meta.function.parameters variable.parameter.function.language.special.self"
+      ],
       "settings": {
         "foreground": "#C8102E"
       }
     },
     {
       "name": "[Python] Multi Comment",
-      "scope": [
-        "string.quoted.docstring.multi.python"],
+      "scope": ["string.quoted.docstring.multi.python"],
       "settings": {
         "foreground": "#939597"
       }
