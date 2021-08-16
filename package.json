@@ -1,0 +1,21 @@
+{
+  "name": "warlord-theme",
+  "displayName": "warlord-theme",
+  "description": "A Dark-Red theme that uses Pantome Colors",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.59.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "warlord-theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/warlord-theme-color-theme.json"
+      }
+    ]
+  }
+}
