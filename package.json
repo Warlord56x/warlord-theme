@@ -1,13 +1,40 @@
 {
   "name": "warlord-theme",
-  "displayName": "warlord-theme",
+  "displayName": "Warlord-Theme",
   "description": "A Dark-Red theme that uses Pantome Colors",
+  "publisher": "Warlord56x",
   "version": "0.0.1",
+  "license": "MIT",
+  "author": {
+    "name": "Warlord56x",
+    "url": "https://github.com/Warlord56x"
+  },
   "engines": {
     "vscode": "^1.59.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Warlord56x/warlord-theme"
+  },
+  "bugs": {
+    "url": "https://github.com/Warlord56x/warlord-theme/issues"
+  },
+  "galleryBanner": {
+    "color": "#101820",
+    "theme": "dark"
+  },
+  "icon": "images/warlord_theme_logo.png",
   "categories": [
     "Themes"
+  ],
+  "keywords": [
+    "Dark",
+    "Dark Theme",
+    "Red",
+    "Dark Red",
+    "Dark Red Theme",
+    "Dark Red Green Theme",
+    "Warlord"
   ],
   "contributes": {
     "themes": [
