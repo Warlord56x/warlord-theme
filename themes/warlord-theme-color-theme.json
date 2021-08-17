@@ -175,6 +175,13 @@ https://connect.pantone.com/#/pick?pantoneBook=pantoneSolidCoated&visualisation=
     "scrollbarSlider.hoverBackground": "#C8102E60",
     "scrollbarSlider.activeBackground": "#C8102E80",
 
+    "textBlockQuote.background": "#A6192E80",
+    "textBlockQuote.border": "#C8102E",
+    "textSeparator.foreground": "#C8102E",
+    "textLink.activeForeground": "#C8102E",
+    "textLink.foreground": "#A6192E",
+    "editorLink.activeForeground": "#C8102E",
+
     "menu.background": "#101820",
     "menu.foreground": "#F2F0EB"
   },
@@ -249,7 +256,6 @@ https://connect.pantone.com/#/pick?pantoneBook=pantoneSolidCoated&visualisation=
       "settings": {
         "foreground": "#C8102E",
         "fontStyle": "bold"
-        /*F58C58*/
       }
     },
     {
@@ -575,7 +581,8 @@ https://connect.pantone.com/#/pick?pantoneBook=pantoneSolidCoated&visualisation=
       "name": "[Python] Multi Comment",
       "scope": ["string.quoted.docstring.multi.python"],
       "settings": {
-        "foreground": "#939597"
+        "foreground": "#939597",
+        "fontStyle": "italic"
       }
     }
   ]
